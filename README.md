@@ -1,5 +1,4 @@
-# Programming JavaScript Applications
-## Q & A Forum
+# Programming JavaScript Applications Q&A
 
 
 A question and answer forum for the O'Reilly book, "Programming JavaScript Applications".
