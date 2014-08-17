@@ -1,7 +1,7 @@
 # Programming JavaScript Applications Q&A
 
 
-A question and answer forum for the O'Reilly book, "Programming JavaScript Applications".
+A question and answer forum for the O'Reilly book, ["Programming JavaScript Applications"](http://learn-javascript.ericelliott.me/programming-javascript-applications/).
 
 * [Ask a question about the book](https://github.com/learn-javascript-courses/programming-javascript-applications/issues/new)
 * For general JavaScript questions, see [StackOverflow](http://stackoverflow.com/)
